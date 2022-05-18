@@ -1,6 +1,6 @@
 /*
  * File: helper.c
- * Authors: Abilawon Adeola 
+ * Authors: Abilawon Adeola
  *          David Oloyede
  */
 

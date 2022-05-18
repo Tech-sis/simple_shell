@@ -1,7 +1,7 @@
 /*
  * File: helpers_2.c
  * Authors: Abilawon Adeola
- * 
+ *
  *          David Oloyede
  */
 
